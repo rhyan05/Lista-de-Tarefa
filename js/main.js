@@ -8,7 +8,7 @@ function criaLi(){
 }
 
 inputTarefa.addEventListener('keypress', function(e){
-    if (e.key === 'Enter'){  // Correção aqui
+    if (e.key === 'Enter'){
         if (!inputTarefa.value) return;
         criaTarefa(inputTarefa.value);
     }
