@@ -35,10 +35,12 @@ Este projeto é uma aplicação web simples para gerenciar tarefas. Ele permite 
 
 ## Imagens
 ![image](https://github.com/user-attachments/assets/cbaee8e2-0c47-4852-8d0e-0a0b10a2c21e)
-![image](https://github.com/user-attachments/assets/38599576-e5b2-4879-9371-fe0852d333e4)
-![image](https://github.com/user-attachments/assets/0beb4e95-4470-49c2-857d-8354c2c2d3d3)
+![image](https://github.com/user-attachments/assets/5112f4e2-af04-4365-9a76-f69659fb0dfe)
+![image](https://github.com/user-attachments/assets/5ae48381-4c7e-464a-8452-26f11f657849)
+![image](https://github.com/user-attachments/assets/0f2483a3-8548-4de6-8b21-0f4fd1ba54ff)
+![image](https://github.com/user-attachments/assets/172c8755-7246-4f2f-b9b2-7a72d162af30)
 
-![image](https://github.com/user-attachments/assets/7ffe2f4e-24c2-42f4-8c86-007afda526d0)
+
 
 
 ## Contribuição
