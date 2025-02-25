@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5d69b624-a0ac-4641-b310-9147ae8fc68a)# Lista de Tarefa
+# Lista de Tarefa
 
 Uma lista de tarefas que salva as suas informações mesmo saindo da página, feito em JavaScript.
 
@@ -37,6 +37,7 @@ Este projeto é uma aplicação web simples para gerenciar tarefas. Ele permite 
 ![image](https://github.com/user-attachments/assets/cbaee8e2-0c47-4852-8d0e-0a0b10a2c21e)
 ![image](https://github.com/user-attachments/assets/38599576-e5b2-4879-9371-fe0852d333e4)
 ![image](https://github.com/user-attachments/assets/0beb4e95-4470-49c2-857d-8354c2c2d3d3)
+
 ![image](https://github.com/user-attachments/assets/7ffe2f4e-24c2-42f4-8c86-007afda526d0)
 
 
